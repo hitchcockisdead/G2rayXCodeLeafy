@@ -4,7 +4,7 @@
 
 A sleek VLESS proxy manager for GitHub Codespaces.
 
-[![Version](https://img.shields.io/badge/version-1.4.3-2DC94E?style=flat-square)](https://github.com/Code-Leafy/G2rayXCodeLeafy)
+[![Version](https://img.shields.io/badge/version-2.0.0-2DC94E?style=flat-square)](https://github.com/Code-Leafy/G2rayXCodeLeafy)
 [![License](https://img.shields.io/badge/license-MIT-2DC94E?style=flat-square)](https://github.com/Code-Leafy/G2rayXCodeLeafy)
 [![Status](https://img.shields.io/badge/status-stable-2DC94E?style=flat-square)]()
 
@@ -83,16 +83,6 @@ Donate your generated config directly from the CLI to share access with the comm
 4. **Launch Panel**  
    → The G2ray CLI panel auto-starts in the terminal!
 
-<details>
-<summary><kbd>⚙️</kbd> Environment Configuration</summary>
-
-While G2ray is designed to be zero-config, advanced users can modify specific variables within the engine script:
-
-- `XRAY_PORT` **(Optional)** — Binds Xray to a custom port. Default: `443`
-- `CODESPACE_NAME` **(Optional)** — Overrides auto-detection of the app domain.
-
-</details>
-
 ---
 
 ## Usage
@@ -125,7 +115,7 @@ G2rayXCodeLeafy/
 ├── logs/                    # Xray engine error logs
 ├── assets/                  # Media resources (previews & videos)
 ├── configs.txt              # Community donated subscription configs
-└── g2ray.sh                 # The main interactive panel script
+└── g2ray.py                 # The main interactive panel script
 ```
 
 </details>
