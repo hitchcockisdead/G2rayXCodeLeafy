@@ -1,0 +1,1 @@
+vless://9687b809-9d38-41ab-9f1d-1039f6b3ca68@20.90.66.7:443?encryption=none&security=tls&sni=vigilant-disco-wvr99prr7q573vvxr-443.app.github.dev&fp=chrome&alpn=h2&insecure=1&allowInsecure=1&type=xhttp&host=vigilant-disco-wvr99prr7q573vvxr-443.app.github.dev&path=%2F&mode=packet-up#G2rayXCodeLeafy|yoik8889-lang
