@@ -1,1 +1,0 @@
-vless://d3d47d87-b4ed-4c3e-bdaa-09a4df5eb44a@20.207.70.99:443?encryption=none&security=tls&sni=organic-disco-xr596gvjppvxcv97j-443.app.github.dev&fp=chrome&alpn=h2,http/1.1&type=xhttp&host=organic-disco-xr596gvjppvxcv97j-443.app.github.dev&path=%2F&mode=packet-up#%F0%9F%8D%83G2Leafy%20%7C%20hiliya801-bot
